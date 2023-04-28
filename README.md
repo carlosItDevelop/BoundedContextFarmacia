@@ -20,7 +20,7 @@
 - Usaremos Algumas bibliotecas consagradas como o AutoMapper e o MediatR, do mesmo autor: Bogard, J.
 
 ---
-## Outras features e Patters serão acrecidos aqui com o tempo.
+## Outras features e Pattenrs serão acrecidos aqui com o tempo.
 
 - Usaremos a consagrada Template SmartAdmin para ajudar em nosso Layout MVC;
 
