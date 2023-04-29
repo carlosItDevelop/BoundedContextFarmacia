@@ -66,10 +66,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\images\farmacia\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="Views\Ui\Accordion.cshtml" />
     <None Include="Views\Ui\Alerts.cshtml" />
     <None Include="Views\Ui\Badges.cshtml" />

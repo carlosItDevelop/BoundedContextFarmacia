@@ -15,6 +15,7 @@ namespace Cooperchip.ITDeveloper.Farmacia.InfraData.Context
             ChangeTracker.AutoDetectChangesEnabled = false;
         }
 
+        public DbSet<Produto> Produtos { get; set; }
         public DbSet<Endereco> Enderecos { get; set; }
         public DbSet<Fornecedor> Fornecedores { get; set; }
         public DbSet<RepresentanteLegal> RepresentantesLegais { get; set; }
